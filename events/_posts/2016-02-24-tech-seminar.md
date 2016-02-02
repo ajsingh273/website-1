@@ -2,8 +2,8 @@
 permalink: "events/tech-seminar-italy.html"
 layout: sidebar
 title: SelectUSA Tech Seminar
-date-display-start: February 24, 2016
-date-display-end: February 24, 2016
+date-display-start: February 24
+date-display-end: 25, 2016
 calendar-start: 2016-02-24
 calendar-end: 2016-02-24
 location-value: Milan, Italy
