@@ -1,5 +1,5 @@
 name: Website
-highlighter: pygments
+highlighter: rouge
 baseurl: "/website-1"
 exclude:
   - .bundle
