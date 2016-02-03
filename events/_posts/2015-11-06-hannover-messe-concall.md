@@ -1,5 +1,5 @@
 --- 
-permalink: "events/2015-11-06-hannover-messe-concall.html" 
+permalink: "/events/2015-11-06-hannover-messe-concall.html" 
 layout: sidebar 
 title: Hannover Messe 2016 Conference Call
 date-display-start: November 6, 2015
