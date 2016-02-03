@@ -18,7 +18,7 @@ published: true
 
 ![SelectUSA at Hannover Messe]({{site.baseurl}}/images/HM16Banner_white.jpg)
 
-[Hannover Messe](http://www.hannovermesse.de/home) is and has long been the largest industrial trade show in the world and one of the premier event platforms to spark international business opportunities. The greatest and most-advanced manufacturing technologies are showcased and economic development growth is facilitated. This upcoming April, SelectUSA will head the U.S. Investment Pavilion, and, for the first time ever, the United States will be the official Partner Country of trade show. President Obama will also become the [first sitting U.S. president to attend](https://www.whitehouse.gov/the-press-office/2015/12/30/statement-press-secretary-presidents-travel-germany) the trade show when he opens Hannover Messe with German Chancellor Angela Merkel.
+[Hannover Messe](http://www.hannovermesse.de/home) is and has long been the largest industrial trade show in the world and one of the premier event platforms to spark international business opportunities. The greatest and most-advanced manufacturing technologies are showcased and economic development growth is facilitated. This upcoming April – and for the first time ever – the United States will be the official Partner Country.
 
 As [Partner Country](http://www.hannovermesse.de/en/program/partner-country/), the United States will attract unique and focused attention from the international business, manufacturing, and media communities. U.S. exhibitors will have the highest amount of exposure to over 200,000 visitors and thousands of journalists and bloggers, as well as 6,000 other economic development and industrial exhibitors from 27 exhibit halls.
 
@@ -38,8 +38,6 @@ For more information, please visit the International Trade Administration's [Han
 
 * [The White House](https://www.whitehouse.gov/the-press-office/2015/12/30/statement-press-secretary-presidents-travel-germany): "Statement by the Press Secretary on the President’s Travel to Germany"
 
-* [Deutsche Messe AG](http://www.hannovermesse.de/de/info/fuer-journalisten/presseinformationen/pressemitteilungen/pressemitteilungen-deutsche-messe/?id=755713&lang=GB&page=&page_size=20&bereich=&unterbereich=): "U.S. President Obama to open HANNOVER MESSE 2016"
-
 * [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2015/12/30/with-european-trade-deal-unfinished-obama-to-head-to-germany-in-the-spring/?postshare=2991451572219310&tid=ss_tw): "With European trade deal unfinished, Obama to head to Germany in the spring"
 
 * [The Wall Street Journal](http://blogs.wsj.com/washwire/2015/12/30/obama-to-travel-to-germany-for-meeting-with-angela-merkel-trade-show/): "Obama to Travel to Germany for Meeting With Merkel, Trade Show"
@@ -50,6 +48,5 @@ For more information, please visit the International Trade Administration's [Han
 
 * [Reuters](http://www.reuters.com/article/us-usa-germany-idUSKBN0UD1PA20151230): "Obama to meet Merkel, attend Hannover trade show in April"
 
-Stay up-to-date on the latest news for Hannover Messe 2016 on Twitter with [#HM16USA](https://twitter.com/hashtag/HM16USA?src=hash).
 
-Did you know that Germany is the third-largest source of FDI to the United States? Check out our [fact sheet](http://selectusa.commerce.gov/country-fact-sheets/Germany_Fact_Sheet.pdf).
+Did you know that Germany is the third-largest source of FDI to the United States? Check out our [fact sheet](http://selectusa.commerce.gov/country-fact-sheets/2015-09-10%20Germany%20Fact%20Sheet.pdf).

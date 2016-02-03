@@ -1,9 +1,9 @@
 ---
 permalink: "testimonials/bombardier.html"
-layout: 
+layout: sidebar
 title: Bombardier
 section: testimonials
-published: false
+published: true
 ---
 ## Bombardier Investment Takes Off
 
