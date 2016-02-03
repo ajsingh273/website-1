@@ -1,5 +1,5 @@
 ---
-permalink: "/events/aerospace-advance-briefing.html"
+permalink: "events/aerospace-advance-briefing.html"
 layout: sidebar
 title: Advance Webinar Briefing for National Aerospace FDI Expo
 date-display-start: August 11, 2015

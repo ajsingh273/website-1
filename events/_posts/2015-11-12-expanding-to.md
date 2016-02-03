@@ -1,5 +1,5 @@
 ---
-permalink: "/events/expanding-to.html"
+permalink: events/expanding-to.html
 layout: sidebar
 title: SelectUSA at the International Investment & Expansion Virtual Summit
 date-display-start: November 12, 2015

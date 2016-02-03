@@ -1,5 +1,5 @@
 ---
-permalink: "/silk-road-conference-call.html"
+permalink: "silk-road-conference-call.html"
 layout: sidebar
 title: SelectUSA Silk Road China Road Show – Conference Call
 date-display-start: December 14, 2015

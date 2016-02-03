@@ -1,5 +1,5 @@
 ---
-permalink: "/2016-summit.html"
+permalink: "2016-summit.html"
 layout: sidebar
 title: SelectUSA Investment Summit
 date-display-start: June 19
