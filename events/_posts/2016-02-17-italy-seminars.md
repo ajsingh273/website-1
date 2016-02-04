@@ -10,6 +10,7 @@ location-value: Milan and Florence, Italy
 location-type: International
 section: events
 published: true
+future: true
 ---
 
 

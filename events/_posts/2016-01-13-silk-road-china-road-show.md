@@ -10,6 +10,7 @@ location-value: Beijing, Urumqi, and Chengdu
 location-type: International
 section: events
 published: true
+future: true
 ---
 
 
