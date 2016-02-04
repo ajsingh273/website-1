@@ -10,7 +10,6 @@ location-value: Tel Aviv, Israel
 location-type: International
 section: events
 published: true
-future: true
 ---
 
 ### SelectUSA Open Day -- Israel Catalog Show

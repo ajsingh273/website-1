@@ -10,7 +10,6 @@ location-value: Toronto, Canada
 location-type: International
 section: events
 published: true
-future: true
 ---
 
 

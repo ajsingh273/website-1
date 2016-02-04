@@ -10,7 +10,6 @@ location-value: Milan, Italy
 location-type: International
 section: events
 published: true
-future: true
 ---
 
 

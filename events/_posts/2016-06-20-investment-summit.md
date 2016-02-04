@@ -10,7 +10,6 @@ location-value: Washington, DC
 location-type: Domestic
 section: events
 published: true
-future: true
 ---
 ![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 

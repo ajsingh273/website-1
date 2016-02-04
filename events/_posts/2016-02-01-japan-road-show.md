@@ -10,7 +10,6 @@ location-value: Tokyo, Nagoya, Osaka, and Fukuoka
 location-type: International
 section: events
 published: true
-future: true
 ---
 
 

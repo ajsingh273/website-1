@@ -10,7 +10,6 @@ location-value: Rennes, Lyon, Marseille and Nice, France
 location-type: International
 section: events
 published: true
-future: true
 ---
 
 

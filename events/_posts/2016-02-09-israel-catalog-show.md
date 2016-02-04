@@ -10,7 +10,6 @@ location-value: Tel Aviv, Israel
 location-type: International
 section: events
 published: true
-future: true
 ---
 
 ### SelectUSA at the Israel Venture Capital Research Center Seminar
